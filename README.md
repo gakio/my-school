@@ -3,3 +3,6 @@
 
 ## Description
 This is a school project that showcase school activities
+
+## Technology used
+* HTML
